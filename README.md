@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaspranav" alt="shreyaspranav" /></a> </p>
 
-- 🔭 I’m currently working on [Xenode](github.com/shreyaspranav/Xenode)
+- 🔭 I’m currently working on [Xenode](https://github.com/shreyaspranav/Xenode)
 
 - 🌱 I’m currently learning **OpenGL, Vulkan, Direct3D 12**
 
