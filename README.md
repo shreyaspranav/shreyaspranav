@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaspranav&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaspranav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaspranav" alt="shreyaspranav" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaspranav" alt="shreyaspranav" /></a> </p> -->
 
 - 🔭 I’m currently working on [Xenode](https://github.com/shreyaspranav/Xenode)
 
@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaspranav&show_icons=true&locale=en&layout=compact" alt="shreyaspranav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaspranav&show_icons=true&locale=en" alt="shreyaspranav" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaspranav&show_icons=true&locale=en" alt="shreyaspranav" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaspranav&" alt="shreyaspranav" /></p>
 
