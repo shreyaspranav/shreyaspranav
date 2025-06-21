@@ -11,4 +11,7 @@ Through this initiative, I am continually enhancing my skills and contributing t
 
 - Reach Me **shrepranav5@gmail.com**
 
-![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaspranav&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
+![](https://raw.githubusercontent.com/shreyaspranav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shreyaspranav/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/shreyaspranav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shreyaspranav/github-stats/master/generated/languages.svg#gh-light-mode-only)
